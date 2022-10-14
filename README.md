@@ -1,1 +1,21 @@
-# FaceRecognition-AI-app
+
+# Realtime-chat-room
+
+# Getting Started with Create React App  
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).   
+
+Run these cmd in both chatarena-frontend react and server-backend folder seperately:
+### `npm install`
+### `npm start`  
+
+Frontend will run on (http://localhost:3000) 
+Backend Server will run on (http://localhost:3500)   
+
+The page will reload when you make changes.\ 
+You may also see any lint errors in the console  
+
+#sign In 
+![image](https://user-images.githubusercontent.com/106506484/193345661-922dd921-7b9f-4248-a228-42ae79b17451.png)
+
+#Chatroom 
+![image](https://user-images.githubusercontent.com/106506484/193345736-1394fe82-fca8-4df4-a909-44234977cd14.png)
