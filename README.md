@@ -32,4 +32,4 @@ React.js
 Back-End Technologies : 
 Node.js
 Express.js
-PostgreSQL
+Socket.io
