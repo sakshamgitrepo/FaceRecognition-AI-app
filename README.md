@@ -1,8 +1,6 @@
 
 # Realtime-chat-room
-
-# Getting Started with Create React App  
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).   
+This app uses reactjs for frontend, nodejs & expressjs for backend server and socket.io for realtime communication between web clients & server
 
 Run these cmd in both chatarena-frontend react and server-backend folder seperately:
 ### `npm install`
